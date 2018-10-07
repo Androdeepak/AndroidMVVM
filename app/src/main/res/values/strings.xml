@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MVVM Demo</string>
+    <string name="blog_url">Blog Url</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="email">Email</string>
+    <string name="location">Location</string>
+    <string name="company">Company</string>
+    <string name="name">Name</string>
+</resources>
